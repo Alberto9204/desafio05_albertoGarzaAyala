@@ -1,0 +1,1 @@
+[{"id":1,"name":"bulbasaur","cost":350,"image":"./assets/bulbasaur.webp"},{"id":2,"name":"charmander","cost":350,"image":"./assets/charmander.webp"},{"id":3,"name":"squirtle","cost":350,"image":"./assets/squirtle.png"}]

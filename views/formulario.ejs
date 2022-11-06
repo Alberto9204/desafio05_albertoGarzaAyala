@@ -1,0 +1,24 @@
+<h1 style="color:blue">Ingrese Productos</h1>
+<br>
+
+<form action="/productos" method="post" name="productos">
+
+    <div class="form-group">
+        <label for="nombre"><b>Nombre</b></label>
+        <input type="text" placeholder="Nombre de producto" id="nombre" name="nombre" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="precio"><b>Precio</b></label>
+        <input type="text" placeholder="Precio de producto" id="precio" name="precio" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="imagen"><b>Imagen</b></label>
+        <input type="text" placeholder="Imagen de producto" id="imagen" name="imagen" class="form-control">
+    </div>
+
+    <button class="btn btn-success">Enviar</button>
+    <button type="button" class="btn btn-info"><a href="./productosCargados.ejs" target="_blank">Lista de productos</a></button>
+
+</form>
