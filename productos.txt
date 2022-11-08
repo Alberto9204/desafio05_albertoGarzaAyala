@@ -1,1 +1,2 @@
-[{"id":1,"name":"bulbasaur","cost":350,"image":"./assets/bulbasaur.webp"},{"id":2,"name":"charmander","cost":350,"image":"./assets/charmander.webp"},{"id":3,"name":"squirtle","cost":350,"image":"./assets/squirtle.png"}]
+[{"id":1,"name":"Calculadora","cost":123.45,"image":"https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-64.png"},{"id":2,"name":"Escuadra","cost":234
+56,"image":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-64.png"},{"id":3,"name:"Reloj","cost":345,"image":"https://cdn3.iconfinder.com/data/icons/education-209/64/clock-stopwatch-timer-time-64.png"}]
